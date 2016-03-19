@@ -1,0 +1,578 @@
+[color="white"] {
+	color: #ececec;
+	text-shadow: 0px 1 #fff, 0px 1 #fff, 0px 0 #fff, 0px 0 #fff;
+}
+.default {
+	background: linear-gradient(#e5e5e5 50%, #e5e5e5 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #c3c2c2;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.default:hover {
+	background: linear-gradient(#d6d6d6 0%, #d6d6d6 0%);
+	border: 1px solid #c3c2c2;
+}
+.green {
+	background: linear-gradient(#11a311 50%, #11a311 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #90ee90;
+	box-sizing: border-box;
+	outline: none;
+
+}
+
+.green:hover {
+	background: linear-gradient(green 0%, darkgreen 0%);
+	border: 1px solid #90ee90;
+}
+
+.blue {
+	background: linear-gradient(#1932f0 50%, #1932f0 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #add8e6;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.blue:hover {
+	background: linear-gradient(#0e23c1 0%, #0e23c1 0%);
+	border:1px solid #add8e6;
+}
+
+.orange {
+	background: linear-gradient(#eea319 50%, #eea319 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #ffb01f;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.orange:hover {
+	background: linear-gradient(#dd9a20 0%, #dd9a20 0%);
+	border:1px solid #ffb01f;
+}
+
+.gray {
+	background: linear-gradient(#9a9a9a 50%, #9a9a9a 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #d3d3d3;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.gray:hover {
+	background: linear-gradient(#808080 0%, #808080 0%);
+	border:1px solid #d3d3d3;
+}
+
+.red {
+	background: linear-gradient(#ea2a2a 50%, #ea2a2a 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #ff3535;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.red:hover {
+	background: linear-gradient(#b62424 0%, #b62424 0%);
+	border:1px solid #ff3535;
+}
+.light-blue {
+	background: linear-gradient(#40bbe3 50%, #40bbe3 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #5cc5ce;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.light-blue:hover {
+	background: linear-gradient(#217d9a 0%, #217d9a 0%);
+	border:1px solid #5cc5ce;
+}
+.purple {
+	background: linear-gradient(#6a32a3 50%, #6a32a3 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #6d3ba1;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.purple:hover {
+	background: linear-gradient(#592c87 0%, #592c87 0%);
+	border:1px solid #6d3ba1;
+}
+.brownie {
+	background: linear-gradient(#865521 50%, #865521 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #9f682e;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.brownie:hover {
+	background: linear-gradient(#6d471f 0%, #6d471f 0%);
+	border:1px solid #9f682e;
+}
+.yellow {
+	background: linear-gradient(#f4f407 50%, #f4f407 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #aeae31;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.yellow:hover {
+	background: linear-gradient(#b2b20d 0%, #b2b20d 0%);
+	border:1px solid #aeae31;
+}
+.gblue {
+	background: linear-gradient(#0057e7 50%, #0057e7 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #3762a9;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.gblue:hover {
+	background: linear-gradient(#1451b4 0%, #1451b4 0%);
+	border:1px solid #3762a9;
+}
+.fblue {
+	background: linear-gradient(#3b5998 50%, #3b5998 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #3762a9;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.fblue:hover {
+	background: linear-gradient(#243c6d 0%, #243c6d 0%);
+	border:1px solid #3762a9;
+}
+.skin {
+	background: linear-gradient(#eac086 50%, #eac086 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #c59c64;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.skin:hover {
+	background: linear-gradient(#ffad60 0%, #ffad60 0%);
+	border:1px solid #c59c64;
+}
+.metro-pink {
+	background: linear-gradient(#d11141 50%, #d11141 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #ae6a7b;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.metro-pink:hover {
+	background: linear-gradient(#9a2240 0%, #9a2240 0%);
+	border:1px solid #ae6a7b;
+}
+
+.metro-green {
+	background: linear-gradient(#00b159 50%, #00b159 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #4c9c74;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.metro-green:hover {
+	background: linear-gradient(#21764c 0%, #21764c 0%);
+	border:1px solid #4c9c74;
+}
+.metro-yellow {
+	background: linear-gradient(#ffc425 50%, #ffc425 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #ceaf5b;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.metro-yellow:hover {
+	background: linear-gradient(#ce9d1b 0%, #ce9d1b 0%);
+	border:1px solid #ceaf5b;
+}
+.metro-blue {
+	background: linear-gradient(#00aedb 50%, #00aedb 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #51a8bf;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.metro-blue:hover {
+	background: linear-gradient(#1f95b4 0%, #1f95b4 0%);
+	border:1px solid #51a8bf;
+}
+.teal {
+	background: linear-gradient(#007777 50%, #007777 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border-radius: 5px;
+	border:1px solid #397474;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.teal:hover {
+	background: linear-gradient(#065858 0%, #065858 0%);
+	border:1px solid #397474;
+}
+[color="white"] {
+	color: #ececec;
+	text-shadow: 0px 1 #fff, 0px 1 #fff, 0px 0 #fff, 0px 0 #fff;
+}
+.flat-default {
+	background: linear-gradient(#e5e5e5 50%, #e5e5e5 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #c3c2c2;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-default:hover {
+	background: linear-gradient(#d6d6d6 0%, #d6d6d6 0%);
+	border: 1px solid #c3c2c2;
+}
+.flat-green {
+	background: linear-gradient(#11a311 50%, #11a311 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #90ee90;
+	box-sizing: border-box;
+	outline: none;
+
+}
+
+.flat-green:hover {
+	background: linear-gradient(green 0%, darkgreen 0%);
+	border: 1px solid #90ee90;
+}
+
+.flat-blue {
+	background: linear-gradient(#1932f0 50%, #1932f0 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #add8e6;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-blue:hover {
+	background: linear-gradient(#0e23c1 0%, #0e23c1 0%);
+	border:1px solid #add8e6;
+}
+
+.flat-orange {
+	background: linear-gradient(#eea319 50%, #eea319 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #ffb01f;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-orange:hover {
+	background: linear-gradient(#dd9a20 0%, #dd9a20 0%);
+	border:1px solid #ffb01f;
+}
+
+.flat-gray {
+	background: linear-gradient(#9a9a9a 50%, #9a9a9a 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #d3d3d3;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-gray:hover {
+	background: linear-gradient(#808080 0%, #808080 0%);
+	border:1px solid #d3d3d3;
+}
+
+.flat-red {
+	background: linear-gradient(#ea2a2a 50%, #ea2a2a 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #ff3535;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-red:hover {
+	background: linear-gradient(#b62424 0%, #b62424 0%);
+	border:1px solid #ff3535;
+}
+.flat-light-blue {
+	background: linear-gradient(#40bbe3 50%, #40bbe3 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #5cc5ce;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-light-blue:hover {
+	background: linear-gradient(#217d9a 0%, #217d9a 0%);
+	border:1px solid #5cc5ce;
+}
+.flat-purple {
+	background: linear-gradient(#6a32a3 50%, #6a32a3 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #6d3ba1;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-purple:hover {
+	background: linear-gradient(#592c87 0%, #592c87 0%);
+	border:1px solid #6d3ba1;
+}
+.flat-brownie {
+	background: linear-gradient(#865521 50%, #865521 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #9f682e;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-brownie:hover {
+	background: linear-gradient(#6d471f 0%, #6d471f 0%);
+	border:1px solid #9f682e;
+}
+.flat-yellow {
+	background: linear-gradient(#f4f407 50%, #f4f407 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #aeae31;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-yellow:hover {
+	background: linear-gradient(#b2b20d 0%, #b2b20d 0%);
+	border:1px solid #aeae31;
+}
+.flat-gblue {
+	background: linear-gradient(#0057e7 50%, #0057e7 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #3762a9;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-gblue:hover {
+	background: linear-gradient(#1451b4 0%, #1451b4 0%);
+	border:1px solid #3762a9;
+}
+.flat-fblue {
+	background: linear-gradient(#3b5998 50%, #3b5998 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #3762a9;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-fblue:hover {
+	background: linear-gradient(#243c6d 0%, #243c6d 0%);
+	border:1px solid #3762a9;
+}
+.flat-skin {
+	background: linear-gradient(#eac086 50%, #eac086 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #c59c64;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-skin:hover {
+	background: linear-gradient(#ffad60 0%, #ffad60 0%);
+	border:1px solid #c59c64;
+}
+.flat-metro-pink {
+	background: linear-gradient(#d11141 50%, #d11141 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #ae6a7b;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-metro-pink:hover {
+	background: linear-gradient(#9a2240 0%, #9a2240 0%);
+	border:1px solid #ae6a7b;
+}
+
+.flat-metro-green {
+	background: linear-gradient(#00b159 50%, #00b159 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #4c9c74;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-metro-green:hover {
+	background: linear-gradient(#21764c 0%, #21764c 0%);
+	border:1px solid #4c9c74;
+}
+.flat-metro-yellow {
+	background: linear-gradient(#ffc425 50%, #ffc425 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #ceaf5b;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-metro-yellow:hover {
+	background: linear-gradient(#ce9d1b 0%, #ce9d1b 0%);
+	border:1px solid #ceaf5b;
+}
+.flat-metro-blue {
+	background: linear-gradient(#00aedb 50%, #00aedb 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #51a8bf;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-metro-blue:hover {
+	background: linear-gradient(#1f95b4 0%, #1f95b4 0%);
+	border:1px solid #51a8bf;
+}
+.flat-teal {
+	background: linear-gradient(#007777 50%, #007777 50%);
+	width: auto;
+	height: auto;
+	padding: 15 15 15 15;
+	box-decoration-break: slice;
+	border:1px solid #397474;
+	box-sizing: border-box;
+	outline: none;
+}
+
+.flat-teal:hover {
+	background: linear-gradient(#065858 0%, #065858 0%);
+	border:1px solid #397474;
+}
